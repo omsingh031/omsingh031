@@ -193,11 +193,7 @@
   <img align="center" alt="snake" src="https://raw.githubusercontent.com/omsingh031/omsingh031/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3d-contrib-graph" width="100%">
-</p>
-
-<p align="center"><i>The snake and 3D contribution graph are generated automatically by the GitHub Actions workflows included in this repo (see SETUP.md) — they'll populate within a few minutes of your first push.</i></p>
+<p align="center"><i>The snake animation needs a one-time GitHub Actions workflow added to this repo — ask me and I'll generate it.</i></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
